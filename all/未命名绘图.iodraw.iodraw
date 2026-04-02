@@ -65,7 +65,7 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-30" value="是否&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;达到预设轮数或模型收敛&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="542" y="520.5" width="160" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e_YpA4kYlug8pkLn763m-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;结束&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="562" y="385" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-36" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
