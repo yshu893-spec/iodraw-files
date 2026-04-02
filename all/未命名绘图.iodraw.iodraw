@@ -68,8 +68,8 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-35" value="&lt;span style=&quot;font-family: Cambria;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;达到预设轮数或模型收敛&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622" y="519.5" width="118" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="690" width="60" height="30" as="geometry" />
+        <mxCell id="e_YpA4kYlug8pkLn763m-36" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="562" y="519.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
