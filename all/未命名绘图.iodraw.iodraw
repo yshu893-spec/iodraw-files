@@ -19,7 +19,7 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-4" target="e_YpA4kYlug8pkLn763m-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-4" value="客户端本地训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e_YpA4kYlug8pkLn763m-4" value="客户端本地训练,只训练低秩矩阵 AA&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="114" y="800" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-6" target="e_YpA4kYlug8pkLn763m-7">
