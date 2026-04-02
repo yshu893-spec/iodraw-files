@@ -28,9 +28,6 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-7" value="生成新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="292" y="1430" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-8" value="服务器恢复低秩更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="274" y="1208" width="204" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-1" target="e_YpA4kYlug8pkLn763m-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -61,18 +58,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-16" value="仅上传低秩矩阵参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-5" target="e_YpA4kYlug8pkLn763m-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="376" y="1171" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.67;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-8" target="e_YpA4kYlug8pkLn763m-6">
+        <mxCell id="e_YpA4kYlug8pkLn763m-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.67;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="e_YpA4kYlug8pkLn763m-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="376" y="1282" />
             </Array>
+            <mxPoint x="375.9999999999998" y="1257" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-19" target="e_YpA4kYlug8pkLn763m-1">
