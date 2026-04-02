@@ -31,11 +31,14 @@
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-7" value="客户端上传模型更新至服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="252" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-8" target="VJ1G_onaHXCj5HYc76Lm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-8" value="服务器对上传的更新进行聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="700" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-9" value="得到新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="510" width="188" height="49" as="geometry" />
+          <mxGeometry x="712" y="510" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="322" y="494" width="92" height="49" as="geometry" />
