@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-30" value="评估结果是否&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;达到预设轮数或模型收敛&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="573" y="530" width="157" height="110" as="geometry" />
+          <mxGeometry x="590" y="530" width="160" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="596" y="390" width="120" height="80" as="geometry" />
