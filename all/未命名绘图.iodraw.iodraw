@@ -25,13 +25,13 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-6" target="e_YpA4kYlug8pkLn763m-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-6" value="服务器聚合模型更新，先聚合各客户端上传的 AuA_u&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e_YpA4kYlug8pkLn763m-6" value="服务器聚合模型更新，先聚合各客户端上传的 Au&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="800" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-7" target="e_YpA4kYlug8pkLn763m-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-7" value="生成新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e_YpA4kYlug8pkLn763m-7" value="生成新的全局模型，再与共享 BB 相乘恢复低秩更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="528" y="690" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-1" target="e_YpA4kYlug8pkLn763m-2">
