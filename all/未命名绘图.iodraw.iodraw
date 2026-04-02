@@ -16,24 +16,14 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-3" value="下发模型参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="122" y="710" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="854.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-4" value="客户端本地训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="114" y="840" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="e_YpA4kYlug8pkLn763m-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489.9999999999998" y="854.4999999999998" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="114" y="800" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-6" target="e_YpA4kYlug8pkLn763m-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-6" value="服务器聚合模型更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="830" width="204" height="49" as="geometry" />
+          <mxGeometry x="540" y="794.5" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-7" value="生成新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="548" y="670" width="188" height="49" as="geometry" />
@@ -55,7 +45,7 @@
           <mxGeometry x="140" y="390" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-27" value="上传模型更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="819" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="789" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
