@@ -25,6 +25,9 @@
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-6" value="各客户端在本地数据上&#xa;完成若干步训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="700" width="220" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-7" target="VJ1G_onaHXCj5HYc76Lm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-7" value="客户端上传模型更新至服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="252" height="66" as="geometry" />
         </mxCell>
@@ -62,27 +65,6 @@
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-5" target="VJ1G_onaHXCj5HYc76Lm-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJ1G_onaHXCj5HYc76Lm-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-7" target="VJ1G_onaHXCj5HYc76Lm-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJ1G_onaHXCj5HYc76Lm-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-8" target="VJ1G_onaHXCj5HYc76Lm-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="146" y="1024" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJ1G_onaHXCj5HYc76Lm-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0.8;entryY=1;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-9" target="VJ1G_onaHXCj5HYc76Lm-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="449" y="1024" />
-              <mxPoint x="760" y="540" />
-              <mxPoint x="449" y="448" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-3" target="VJ1G_onaHXCj5HYc76Lm-10">
