@@ -8,10 +8,10 @@
           <mxGeometry x="90" y="510" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-2" value="选取客户端" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="321" y="589" width="129" height="129" as="geometry" />
+          <mxGeometry x="135.5" y="600" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-3" value="下发模型参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="229" y="768" width="156" height="49" as="geometry" />
+          <mxGeometry x="118" y="780" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-4" value="客户端本地训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="221" y="866" width="172" height="49" as="geometry" />
