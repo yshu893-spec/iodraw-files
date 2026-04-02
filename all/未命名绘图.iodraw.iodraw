@@ -26,7 +26,7 @@
           <mxGeometry x="540" y="830" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-7" value="生成新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="1020" width="188" height="49" as="geometry" />
+          <mxGeometry x="548" y="670" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-1" target="e_YpA4kYlug8pkLn763m-2">
           <mxGeometry relative="1" as="geometry">
@@ -36,13 +36,6 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-3" target="e_YpA4kYlug8pkLn763m-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.29;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-6" target="e_YpA4kYlug8pkLn763m-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="307" y="1405" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-19" target="e_YpA4kYlug8pkLn763m-1">
