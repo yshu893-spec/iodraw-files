@@ -17,7 +17,7 @@
           <mxGeometry x="122" y="740" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-4" value="客户端本地训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="221" y="866" width="172" height="49" as="geometry" />
+          <mxGeometry x="114" y="830" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-5" value="上传模型更新" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="990" width="145" height="145" as="geometry" />
