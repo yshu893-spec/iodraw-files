@@ -61,14 +61,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0.01;entryX=1;entryY=0.8;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-7" target="e_YpA4kYlug8pkLn763m-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="533" y="1405" />
-              <mxPoint x="533" y="743" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-16" value="仅上传低秩矩阵参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-5" target="e_YpA4kYlug8pkLn763m-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
