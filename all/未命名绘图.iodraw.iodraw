@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="e_YpA4kYlug8pkLn763m-1" value="服务器初始化全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="510" width="220" height="49" as="geometry" />
+          <mxGeometry x="90" y="490" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-2" target="e_YpA4kYlug8pkLn763m-3">
           <mxGeometry relative="1" as="geometry" />
@@ -59,8 +59,11 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-30" target="e_YpA4kYlug8pkLn763m-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e_YpA4kYlug8pkLn763m-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-30" target="e_YpA4kYlug8pkLn763m-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-30" value="评估结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="573" y="560" width="98" height="79" as="geometry" />
+          <mxGeometry x="573" y="584" width="98" height="79" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="562" y="420" width="120" height="80" as="geometry" />
