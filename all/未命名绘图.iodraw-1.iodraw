@@ -19,6 +19,9 @@
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-5" value="下发模型参数至所选客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="601" width="252" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-6" target="VJ1G_onaHXCj5HYc76Lm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-6" value="各客户端在本地数据上&#xa;完成若干步训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="700" width="220" height="66" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="680" y="700" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-9" value="得到新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="820" width="188" height="49" as="geometry" />
+          <mxGeometry x="720" y="510" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ1G_onaHXCj5HYc76Lm-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="322" y="494" width="92" height="49" as="geometry" />
