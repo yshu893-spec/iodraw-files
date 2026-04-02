@@ -53,7 +53,7 @@
         <mxCell id="e_YpA4kYlug8pkLn763m-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-27" target="e_YpA4kYlug8pkLn763m-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_YpA4kYlug8pkLn763m-27" value="上传模型更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e_YpA4kYlug8pkLn763m-27" value="&lt;b&gt;上传模型更新&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="794.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e_YpA4kYlug8pkLn763m-30" target="e_YpA4kYlug8pkLn763m-33">
