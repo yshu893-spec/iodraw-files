@@ -1,0 +1,97 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="9NcPKZWgZKa_8whuxlVJ">
+    <mxGraphModel dx="1299" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="20" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-2" value="服务器初始化全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="119" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-3" value="是否达到预设轮数&#xa;或模型收敛？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="271" y="218" width="194" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-4" value="从全部用户中采样一部分客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="485" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-5" value="下发模型参数至所选客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="601" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-6" value="各客户端在本地数据上&#xa;完成若干步训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="700" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-7" value="客户端上传模型更新至服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="816" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-8" value="服务器对上传的更新进行聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="933" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-9" value="得到新的全局模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="204" y="1049" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="494" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-1" target="VJ1G_onaHXCj5HYc76Lm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-2" target="VJ1G_onaHXCj5HYc76Lm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-13" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-3" target="VJ1G_onaHXCj5HYc76Lm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-4" target="VJ1G_onaHXCj5HYc76Lm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-5" target="VJ1G_onaHXCj5HYc76Lm-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-6" target="VJ1G_onaHXCj5HYc76Lm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-7" target="VJ1G_onaHXCj5HYc76Lm-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-8" target="VJ1G_onaHXCj5HYc76Lm-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="1024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0.8;entryY=1;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-9" target="VJ1G_onaHXCj5HYc76Lm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="1024" />
+              <mxPoint x="449" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ1G_onaHXCj5HYc76Lm-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ1G_onaHXCj5HYc76Lm-3" target="VJ1G_onaHXCj5HYc76Lm-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
