@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-2" value="选取客户端" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135.5" y="600" width="129" height="80" as="geometry" />
+          <mxGeometry x="135.5" y="570" width="129" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-3" value="下发模型参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="122" y="710" width="156" height="49" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-30" value="评估结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="573" y="584" width="98" height="79" as="geometry" />
+          <mxGeometry x="573" y="571" width="98" height="79" as="geometry" />
         </mxCell>
         <mxCell id="e_YpA4kYlug8pkLn763m-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="562" y="420" width="120" height="80" as="geometry" />
